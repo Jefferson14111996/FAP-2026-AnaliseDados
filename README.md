@@ -2,4 +2,4 @@
 Exercício do FAP 2026 Turma 06 - Git.
 
 ### Autor:
-Jefferson Fernandes
+Jefferson Fernandes Souza
